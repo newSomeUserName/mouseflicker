@@ -1,0 +1,18 @@
+2026-11-24 15:06:43.167 [15228] worker start: managed 0, test 1, diag 0, calibrate 0, dry 1
+2026-11-24 15:06:43.169 [15228] onnxruntime 1.20.1 loaded (api 20)
+2026-11-24 15:06:43.203 [15228] models loaded
+2026-11-24 15:06:43.287 [15228] camera opened: 640x480 NV12
+2026-11-24 15:06:43.293 [15228] window created, entering test loop
+2026-11-24 15:07:45.820 [15228] loop finished, rc 0
+2026-11-24 15:10:31.651 [14876] worker start: managed 1, test 0, diag 0, calibrate 0, dry 0
+2026-11-24 15:10:31.653 [14876] onnxruntime 1.20.1 loaded (api 20)
+2026-11-24 15:10:31.687 [14876] models loaded
+2026-11-24 15:10:31.772 [14876] camera opened: 640x480 NV12
+2026-11-24 15:10:31.779 [14876] window created, entering tracking loop
+2026-11-24 15:17:57.350 [14876] loop finished, rc 0
+2026-11-24 20:32:59.450 [16012] worker start: managed 1, test 0, diag 0, calibrate 0, dry 0
+2026-11-24 20:32:59.453 [16012] onnxruntime 1.20.1 loaded (api 20)
+2026-11-24 20:32:59.496 [16012] models loaded
+2026-11-24 20:32:59.533 [16012] camera opened: 640x480 NV12
+2026-11-24 20:32:59.539 [16012] window created, entering tracking loop
+2026-11-24 20:43:32.716 [16012] loop finished, rc 0
